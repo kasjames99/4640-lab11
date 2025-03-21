@@ -1,6 +1,6 @@
 # 4640-w11-lab-start-w25
 
-We will need to install boto so that the aws_ec2 plugin for dynamic inventories works:
+We will need to install boto3 so that the aws_ec2 plugin for dynamic inventories works:
 sudo apt install python3-boto3
 
 We can then run the playbook using:
